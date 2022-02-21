@@ -28,5 +28,10 @@ public void setCantante(String cantante) {
 public void setCancion(String cancion) {
 	this.cancion=cancion;
 }
+private void imprimirNombre() {
+	for(int i=0; i<1000; i++) {
+		System.out.println(this.nombreHobby);
+	}
+}
 }
 
