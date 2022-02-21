@@ -25,5 +25,8 @@ public void setNombreHobby(String nombreHobby) {
 public void setCantante(String cantante) {
 	this.cantante=cantante;
 }
+public void setCancion(String cancion) {
+	this.cancion=cancion;
+}
 }
 
