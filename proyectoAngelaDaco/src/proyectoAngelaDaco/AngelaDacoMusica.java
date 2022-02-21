@@ -16,5 +16,8 @@ public String getNombreHobby() {
 public String getCantante() {
 	return cantante;
 }
+public String getCancion() {
+	return cancion;
+}
 }
 
