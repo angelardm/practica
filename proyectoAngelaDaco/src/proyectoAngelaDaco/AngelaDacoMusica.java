@@ -22,5 +22,8 @@ public String getCancion() {
 public void setNombreHobby(String nombreHobby) {
 	this.nombreHobby=nombreHobby;
 }
+public void setCantante(String cantante) {
+	this.cantante=cantante;
+}
 }
 
