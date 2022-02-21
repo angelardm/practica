@@ -19,5 +19,8 @@ public String getCantante() {
 public String getCancion() {
 	return cancion;
 }
+public void setNombreHobby(String nombreHobby) {
+	this.nombreHobby=nombreHobby;
+}
 }
 
