@@ -13,5 +13,8 @@ public AngelaDacoMusica(String nombreHobby, String cantante, String cancion) {
 public String getNombreHobby() {
 	return nombreHobby;
 }
+public String getCantante() {
+	return cantante;
+}
 }
 
